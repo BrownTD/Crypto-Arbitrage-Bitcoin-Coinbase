@@ -1,4 +1,4 @@
-# Module_3_Challenge
+# Crypto Arbitrage: Bitcoin & Coinbase
 
 Crypto Arbitrage
 
